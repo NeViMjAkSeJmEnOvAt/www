@@ -1,0 +1,48 @@
+h3{
+    color: #000000;
+    font-size: 30px;
+}
+.bg{
+background-color: lightblue;
+}
+.bg1{
+    background-color: cornflowerblue;
+}
+h6{
+    position: relative;
+    right: -1350px;
+    top: -200px;
+    color: cadetblue;
+    text-align: right;
+}
+.a1:hover{
+    background-color: grey;
+}
+h1{
+    color: #000000;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    right: -400px;
+    top: -220px;
+}
+.bg2{
+    background-color: #cfe0e8;
+}
+h2{
+    color: #000000;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+b{
+    color: #000000;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    right: -1000;
+}
+.img1{
+    position: relative;
+    right: -100;
+
+}
