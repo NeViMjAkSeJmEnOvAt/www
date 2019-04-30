@@ -39,10 +39,33 @@ b{
     font-size: 15px;
     font-family: 'Courier New', Courier, monospace;
     position: relative;
-    right: -1000;
+    
 }
 .img1{
     position: relative;
-    right: -100;
-
+    right: -100px;
 }
+.img2{
+    position: relative;
+    right: -150px;
+}
+.img3{
+    position: relative;
+    right: -200px;
+}
+.img4{
+    position: relative;
+    right: -150px;
+}
+.img5{
+    position: relative;
+    right: -100px;
+}
+.img6{
+    position: relative;
+    right: -40px;
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
