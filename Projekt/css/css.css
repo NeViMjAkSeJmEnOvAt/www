@@ -20,7 +20,7 @@ h6{
 }
 h1{
     color: #000000;
-    font-size: 15px;
+    font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
     position: relative;
     right: -400px;
@@ -68,4 +68,9 @@ b{
 table, th, td {
     border: 2px solid black;
     border-collapse: collapse;
+  }
+  .img7{
+      position: relative;
+      top: 50px;
+      
   }
